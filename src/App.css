@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Baloo+2&family=Bebas+Neue&family=Orbitron:wght@400;500&family=Poppins:wght@300&family=Staatliches&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-seri
+}
+
+.App {
+  text-align: center;
+  font-family: sans-serif;
+}
+
