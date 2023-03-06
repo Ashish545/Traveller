@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-live :-  travellerreact.netlify.app
+live :- https://travellerreact.netlify.app
 ![Screenshot (102)](https://user-images.githubusercontent.com/108454910/223082551-204408fe-6e7e-438d-b23a-93d0297cc8a2.png)
 ![Uploading Screenshot (103).png…]()
 
